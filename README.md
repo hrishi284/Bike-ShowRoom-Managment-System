@@ -9,25 +9,25 @@ automate the current manual system for
 availing all the benefits of computerization .
 The proposed system will work according to
 the standards laid down by the existing
-system. <br /> <br /> <br /> <br />
-    - To develop a user-friendly system. <br /> <br /> <br />
-    - To reduce redundancy of data. <br /> <br />
+system. <br /> 
+    - To develop a user-friendly system. <br /> 
+    - To reduce redundancy of data. <br /> 
     - To reduce paperwork. <br />
     - To provide data security. <br />
-     To provide easy data operations.
+     To provide easy data operations.  <br />
      To ease the process of editing &amp;
-    updating.
+    updating. <br />
      To keep a check on the data processed
-    to avoid errors.
+    to avoid errors. <br />
      To provide authorized access to the
-    system.
+    system. <br />
 
-Modules: 
-      1) Login
-      2) Employee Details
-      3) Enquiry
-      4) Quotation
-      5) Bike details
-      6) Bill and payment
-      7) Services
+*Modules:* 
+      1) Login <br /> 
+      2) Employee Details <br />
+      3) Enquiry <br />
+      4) Quotation <br /> 
+      5) Bike details <br />
+      6) Bill and payment <br />
+      7) Services <br />
 
