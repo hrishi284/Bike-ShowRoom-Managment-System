@@ -22,7 +22,7 @@ system. <br />
      To provide authorized access to the
     system. <br />
 
-*Modules:* 
+**Modules:**  <br />
       1) Login <br /> 
       2) Employee Details <br />
       3) Enquiry <br />
