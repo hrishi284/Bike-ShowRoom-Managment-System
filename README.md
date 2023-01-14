@@ -4,7 +4,8 @@ Name of the Company: My wings Honda Showroom
 Technology: VB 6.0
               MS Access
 
-Objectives: The objectives of proposed system is to
+**Objectives:** </br>
+The objectives of proposed system is to
 automate the current manual system for
 availing all the benefits of computerization .
 The proposed system will work according to
