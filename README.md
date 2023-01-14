@@ -9,11 +9,11 @@ automate the current manual system for
 availing all the benefits of computerization .
 The proposed system will work according to
 the standards laid down by the existing
-system.
-    - To develop a user-friendly system.
-    - To reduce redundancy of data.
-    - To reduce paperwork.
-    - To provide data security.
+system. <br /> <br /> <br /> <br />
+    - To develop a user-friendly system. <br /> <br /> <br />
+    - To reduce redundancy of data. <br /> <br />
+    - To reduce paperwork. <br />
+    - To provide data security. <br />
      To provide easy data operations.
      To ease the process of editing &amp;
     updating.
