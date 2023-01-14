@@ -10,10 +10,10 @@ availing all the benefits of computerization .
 The proposed system will work according to
 the standards laid down by the existing
 system.
-     To develop a user-friendly system.
-     To reduce redundancy of data.
-     To reduce paperwork.
-     To provide data security.
+    - To develop a user-friendly system.
+    - To reduce redundancy of data.
+    - To reduce paperwork.
+    - To provide data security.
      To provide easy data operations.
      To ease the process of editing &amp;
     updating.
